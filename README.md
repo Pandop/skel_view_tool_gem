@@ -19,11 +19,8 @@ Or install it yourself as:
     $ gem install skel_view_tool
 
 ## Usage
-
 ```
-@copyright = DevcampViewTool::Renderer.copyright("Stephen Kel",
-                                                     "All rights reserved",
-                                                     "copyright-class")
+@copyright = DevcampViewTool::Renderer.copyright("Stephen Kel","All rights reserved","copyright-class")
 ```
 
 ## Development
