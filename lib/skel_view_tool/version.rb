@@ -1,0 +1,3 @@
+module SkelViewTool
+  VERSION = "0.1.0"
+end
